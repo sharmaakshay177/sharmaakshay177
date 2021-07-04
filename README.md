@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Sharma @sharmaakshay177
-- 👀 I’m interested in working out, Learning, Formula 1, Cricket
+- 👀 I’m interested in working out, Painting, Formula 1, Cricket
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on Backend Development with python and Scala
 - 📫 How to reach me email me on sharmaakshay177@gmail.com
