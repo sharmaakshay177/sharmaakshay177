@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay Sharma @sharmaakshay177
 - 👀 I’m interested in Painting, Formula 1, Cricket, mythological stories and books
 - 🌱 I’m currently learning FrontEnd Development
-- 💞️ I’m looking to collaborate on Backend Development with python and Scala
+- 💞️ I’m looking to collaborate on Backend Development on Scala and its frameworks
 - 📫 How to reach me email me on sharmaakshay177@gmail.com
 
 <!---
