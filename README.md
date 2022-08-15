@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Sharma @sharmaakshay177
 - 👀 I’m interested in Painting, Formula 1, Cricket, mythological stories and books
-- 🌱 I’m currently learning FrontEnd Development
+- 🌱 I’m exploring Functional Programming.
 - 💞️ I’m looking to Improve on scala
 - 📫 How to reach me email me on sharmaakshay177@gmail.com
 
