@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Sharma @sharmaakshay177 (Scala Developer)
 - 👀 I’m interested in Painting, Formula 1, Cricket, mythological legends, and books
-- 🌱 Love Functional Programming.
+- 🌱 Love Functional Programming and learning about type systems.
 - 📫 How to reach me: email me at sharmaakshay177@gmail.com
 
 <!---
